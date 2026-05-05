@@ -1,0 +1,5 @@
+Professional Bio
+
+I am a passionate developer learning Git and version control. 
+I enjoy building projects and collaborating with others to solve problems.
+Currently focused on mastering software development best practices.
